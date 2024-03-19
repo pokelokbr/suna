@@ -238,7 +238,7 @@ Page.Parent = Main
 Page.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Page.BackgroundTransparency = 1.10
 Page.Position = UDim2.new(0.265426834, 0, 0.075000003, 0)
-Page.Size = UDim2.new(0, 400, 0, 400)
+Page.Size = UDim2.new(0, 400, 0, 800)
 Page.Image = "http://www.roblox.com/asset/?id=" .. tostring(15498788418)
 
     local MainPage = Instance.new("Frame")
